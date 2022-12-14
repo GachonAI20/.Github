@@ -1,19 +1,6 @@
 # OPENEYES
-### Gachon AI20 Project
-
+- Gachon AI20 Project
 </br>
 
-![app_structure](https://ibb.co/5G4s4nh)
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Structure of the app
+<img src="https://firebasestorage.googleapis.com/v0/b/ocr-test2-9b5be.appspot.com/o/images%2FopenEyes_structure.png?alt=media&token=54544590-8e76-49fc-9df6-a7d87c303f7c" width="350" height="400" />
