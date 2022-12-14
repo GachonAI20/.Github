@@ -1,4 +1,11 @@
-## Hi there 👋
+# OPENEYES
+### Gachon AI20 Project
+
+</br>
+
+![app_structure](https://ibb.co/5G4s4nh)
+
+
 
 <!--
 
